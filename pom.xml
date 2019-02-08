@@ -77,7 +77,6 @@
 					<target>${java.version}</target>
 					-->
 					<!---->
-					<release>11</release>
 					<showWarnings>true</showWarnings>
 					<showDeprecation>true</showDeprecation>
 				</configuration>
